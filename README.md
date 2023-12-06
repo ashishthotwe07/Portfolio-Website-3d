@@ -1,4 +1,4 @@
-```markdown
+
 # Portfolio Project
 
 This portfolio project is a personal website built using React, Tailwind CSS, and Vite for quick development. The website showcases my skills, experience, and projects in a visually appealing manner.
